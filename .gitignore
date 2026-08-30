@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 # .gitignore
 .venv/
 __pycache__/
 *.pyc
 results.db
+=======
+.cache/*
+.bashrc
+.claude/*
+.config/*
+.dbclient/*
+.local/*
+.npm/*
+.voc/*
+__pycache__/*
+.vscode/*
+>>>>>>> 2b9ac22c8f5636c9bd9e17cbb360069ee04c5dd7
