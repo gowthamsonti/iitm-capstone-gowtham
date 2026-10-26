@@ -1,0 +1,10 @@
+{"id":"learner_1","question":"Why was the Red-Headed League created?","expected_source":"01_red_headed_league.txt","expected_facts":["bank","tunnel"]}
+{"id":"learner_2","question":"How did Sherlock Holmes realize that Vincent Spaulding was actually John Clay?","expected_source":"01_red_headed_league.txt","expected_facts":["trousers","digging"]}
+{"id":"learner_3","question":"What clues led Holmes to conclude that Julia Stoner was murdered?","expected_source":"02_speckled_band.txt","expected_facts":["bell-rope","ventilator"]}
+{"id":"learner_4","question":"Why did Doctor Roylott want to kill Helen Stoner?","expected_source":"02_speckled_band.txt","expected_facts":["annuity","marriage"]}
+{"id":"learner_5","question":"How did the Blue Carbuncle end up inside a Christmas goose?","expected_source":"03_blue_carbuncle.txt","expected_facts":["Ryder","stone"]}
+{"id":"learner_6","question":"Why did Holmes decide not to turn James Ryder over to the police?","expected_source":"03_blue_carbuncle.txt","expected_facts":["Horner","released"]}
+{"id":"learner_7","question":"What was the true purpose of Colonel Stark's hydraulic press?","expected_source":"04_engineers_thumb.txt","expected_facts":["counterfeit","half-crowns"]}
+{"id":"learner_8","question":"How did Victor Hatherley lose his thumb?","expected_source":"04_engineers_thumb.txt","expected_facts":["cleaver","Stark"]}
+{"id":"learner_9","question":"How did Holmes discover the hiding place of the photograph in Irene Adler's house?","expected_source":"05_scandal_in_bohemia.txt","expected_facts":["fire","photograph"]}
+{"id":"learner_10","question":"Why was Irene Adler able to outsmart Sherlock Holmes?","expected_source":"05_scandal_in_bohemia.txt","expected_facts":["recognized","disguise"]}
